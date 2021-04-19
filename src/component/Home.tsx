@@ -43,7 +43,7 @@ function Home(props: any) {
                     </p>                
 
                     <h4> Disponibilità </h4> <br/>
-                    <iframe style = {{width:"800px", height:"50vh"}} id = "calendarioDisponibilita" src = "https://calendar.google.com/calendar/embed?src=amicimare123@gmail.com"></iframe>
+                    <iframe style = {{width:"100vh", height:"50vh"}} id = "calendarioDisponibilita" src = "https://calendar.google.com/calendar/embed?src=amicimare123@gmail.com"></iframe>
                 </Col>
                
             </Row>

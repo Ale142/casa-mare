@@ -2,7 +2,7 @@ import React from 'react';
 import 'antd/dist/antd.css';
 import {Container, Navbar, Nav} from "react-bootstrap";
 import {
-  BrowserRouter as Router,
+ HashRouter,
   Switch,
   Route,
   Link
@@ -18,7 +18,7 @@ import Home from './component/Home';
 function App() {
   return (
     <Container>
-    <Router>
+    <HashRouter basename = {"https://ale142.github.io/casa-mare/"}>
     <Navbar bg="light" expand="lg">
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
@@ -47,7 +47,7 @@ function App() {
    
     </Switch>
    
-    </Router>
+    </HashRouter>
   </Container>
   );
 }
