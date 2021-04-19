@@ -18,7 +18,7 @@ import Home from './component/Home';
 function App() {
   return (
     <Container>
-    <HashRouter basename = {"https://ale142.github.io/casa-mare/"}>
+    <HashRouter>
     <Navbar bg="light" expand="lg">
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
