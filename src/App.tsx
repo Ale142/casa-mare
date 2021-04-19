@@ -5,7 +5,8 @@ import {
  HashRouter,
   Switch,
   Route,
-  Link
+  Link,
+  Redirect
 } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -18,33 +19,32 @@ import Home from './component/Home';
 function App() {
   return (
     <Container>
-    <HashRouter>
+    <HashRouter basename = "/casa-mare">
     <Navbar bg="light" expand="lg">
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav fill variant="tabs">
-          <Nav.Item> <Nav.Link><Link to = "/casa-mare"> Home </Link></Nav.Link></Nav.Item>
+          <Nav.Item> <Nav.Link><Link to = "/"> Home </Link></Nav.Link></Nav.Item>
 
-          <Nav.Item> <Nav.Link><Link to = "/casa-mare/interni"> Interni </Link></Nav.Link></Nav.Item>
+          <Nav.Item> <Nav.Link><Link to = "/interni"> Interni </Link></Nav.Link></Nav.Item>
          
-          <Nav.Item><Nav.Link><Link to = "/casa-mare/esterni"> Esterni </Link></Nav.Link></Nav.Item>
+          <Nav.Item><Nav.Link><Link to = "/esterni"> Esterni </Link></Nav.Link></Nav.Item>
          
-          <Nav.Item> <Nav.Link><Link to = "/casa-mare/nei-dintorni"> Nei dintorni </Link></Nav.Link></Nav.Item>
+          <Nav.Item> <Nav.Link><Link to = "/nei-dintorni"> Nei dintorni </Link></Nav.Link></Nav.Item>
          
-          <Nav.Item> <Nav.Link><Link to = "/casa-mare/mappa"> Mappa </Link></Nav.Link></Nav.Item>
+          <Nav.Item> <Nav.Link><Link to = "/mappa"> Mappa </Link></Nav.Link></Nav.Item>
          
         </Nav>
       </Navbar.Collapse>
     </Navbar>
 
     <Switch>
-      
-      <Route path = "/casa-mare/interni"> <Interni/> </Route>
-      <Route path = "/casa-mare/esterni"> <Esterni/> </Route>
-      <Route path = "/casa-mare/nei-dintorni"> <Dintorni/></Route>
-      <Route path = "/casa-mare/mappa"> <Map/>  </Route>
-      <Route path = "/casa-mare"> <Home/> </Route>
-   
+      <Route path = "/interni"> <Interni/> </Route>
+      <Route path = "/esterni"> <Esterni/> </Route>
+      <Route path = "/nei-dintorni"> <Dintorni/></Route>
+      <Route path = "/mappa"> <Map/>  </Route>
+      <Route path = "/"> <Home/> </Route>
+      <Route> <Home/> </Route>
     </Switch>
    
     </HashRouter>
