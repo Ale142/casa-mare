@@ -9,7 +9,7 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 const Map = ReactMapboxGl({
     accessToken:
         // process.env.REACT_APP_AUTH_TOKEN + ""
-        "pk.eyJ1IjoiYWxleDE0MiIsImEiOiJja25vcjR4a20xaDRwMnhwbm50NTRyMmN2In0.L0n82JI-JJIIU5mPBlCLbQ"
+        "pk.eyJ1IjoiYWxleDE0MiIsImEiOiJja25vcjY3Mm4wMmljMnduemNjbnFsd2c3In0.YWIft-bjMjSvohlV_adAnA"
   });
 
   

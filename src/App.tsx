@@ -23,27 +23,27 @@ function App() {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav fill variant="tabs">
-          <Nav.Item> <Nav.Link><Link to = "/"> Home </Link></Nav.Link></Nav.Item>
+          <Nav.Item> <Nav.Link><Link to = "/casa-mare"> Home </Link></Nav.Link></Nav.Item>
 
-          <Nav.Item> <Nav.Link><Link to = "/interni"> Interni </Link></Nav.Link></Nav.Item>
+          <Nav.Item> <Nav.Link><Link to = "/casa-mare/interni"> Interni </Link></Nav.Link></Nav.Item>
          
-          <Nav.Item><Nav.Link><Link to = "/esterni"> Esterni </Link></Nav.Link></Nav.Item>
+          <Nav.Item><Nav.Link><Link to = "/casa-mare/esterni"> Esterni </Link></Nav.Link></Nav.Item>
          
-          <Nav.Item> <Nav.Link><Link to = "/nei-dintorni"> Nei dintorni </Link></Nav.Link></Nav.Item>
+          <Nav.Item> <Nav.Link><Link to = "/casa-mare/nei-dintorni"> Nei dintorni </Link></Nav.Link></Nav.Item>
          
-          <Nav.Item> <Nav.Link><Link to = "/mappa"> Mappa </Link></Nav.Link></Nav.Item>
+          <Nav.Item> <Nav.Link><Link to = "/casa-mare/mappa"> Mappa </Link></Nav.Link></Nav.Item>
          
         </Nav>
       </Navbar.Collapse>
     </Navbar>
 
     <Switch>
-      <Route path = "/home"> Home </Route>
-      <Route path = "/interni"> <Interni/> </Route>
-      <Route path = "/esterni"> <Esterni/> </Route>
-      <Route path = "/nei-dintorni"> <Dintorni/></Route>
-      <Route path = "/mappa"> <Map/>  </Route>
-      <Route path = "/"> <Home/> </Route>
+      
+      <Route path = "/casa-mare/interni"> <Interni/> </Route>
+      <Route path = "/casa-mare/esterni"> <Esterni/> </Route>
+      <Route path = "/casa-mare/nei-dintorni"> <Dintorni/></Route>
+      <Route path = "/casa-mare/mappa"> <Map/>  </Route>
+      <Route path = "/casa-mare"> <Home/> </Route>
    
     </Switch>
    
