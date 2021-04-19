@@ -6,11 +6,10 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 
 
 
-const Map = ReactMapboxGl({
-    accessToken:
-        // process.env.REACT_APP_AUTH_TOKEN + ""
-        "pk.eyJ1IjoiYWxleDE0MiIsImEiOiJja25vcjY3Mm4wMmljMnduemNjbnFsd2c3In0.YWIft-bjMjSvohlV_adAnA"
-  });
+// const Map = ReactMapboxGl({
+//     accessToken:
+//         // process.env.REACT_APP_AUTH_TOKEN + ""
+//   });
 
   
 
@@ -51,7 +50,8 @@ export default function MapContainer () {
       <Row className = "justify-content-center mt-3">
           <Col></Col>
           <Col>
-          <Map
+          <img alt = "Mappa" src = "https://api.mapbox.com/styles/v1/mapbox/outdoors-v11/static/pin-s+ff0000(7.9070990662993985,43.83868532005735)/7.8972,43.8366,13.12,0/600x500?before_layer=road-minor-case&access_token=pk.eyJ1IjoiYWxleDE0MiIsImEiOiJja25vcjY3Mm4wMmljMnduemNjbnFsd2c3In0.YWIft-bjMjSvohlV_adAnA"></img>
+          {/* <Map
           style="mapbox://styles/mapbox/outdoors-v11"
           center={[7.897701315542028, 43.83723341357768]}
           containerStyle={{
@@ -65,19 +65,19 @@ export default function MapContainer () {
             <Feature coordinates={[7.897701315542028, 43.83723341357768]} />
           </Layer>
 
-          {/* <Popup
+          <Popup
           coordinates={[7.9070990662993985, 43.83868532005735]}
           offset={10}
           style = {{"backgroundColor": "green"}}
           >
           <p style = {{"backgroundColor": "green"}}>Casa <House/></p>
-          </Popup> */}
+          </Popup> 
           <Marker
             coordinates={[7.9070990662993985, 43.83868532005735]}
             anchor="bottom">
             <p style={{"backgroundColor": "white", "border": "solid thin red", "padding": "0.5em"}}> <strong>Casa </strong> <House/> </p>
           </Marker>
-        </Map>
+        </Map> */}
         </Col>
         <Col></Col>
         </Row>
