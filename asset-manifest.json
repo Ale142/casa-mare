@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/casa-mare/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/casa-mare/static/js/main.21264de5.chunk.js",
-    "main.js.map": "/casa-mare/static/js/main.21264de5.chunk.js.map",
+    "main.js": "/casa-mare/static/js/main.b406a088.chunk.js",
+    "main.js.map": "/casa-mare/static/js/main.b406a088.chunk.js.map",
     "runtime-main.js": "/casa-mare/static/js/runtime-main.4c36547a.js",
     "runtime-main.js.map": "/casa-mare/static/js/runtime-main.4c36547a.js.map",
     "static/css/2.ea93ef7a.chunk.css": "/casa-mare/static/css/2.ea93ef7a.chunk.css",
@@ -46,6 +46,6 @@
     "static/css/2.ea93ef7a.chunk.css",
     "static/js/2.ebf40032.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.21264de5.chunk.js"
+    "static/js/main.b406a088.chunk.js"
   ]
 }
