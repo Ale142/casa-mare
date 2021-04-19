@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/casa-mare/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/casa-mare/static/js/main.0bedd9bf.chunk.js",
-    "main.js.map": "/casa-mare/static/js/main.0bedd9bf.chunk.js.map",
-    "runtime-main.js": "/casa-mare/static/js/runtime-main.0f487377.js",
-    "runtime-main.js.map": "/casa-mare/static/js/runtime-main.0f487377.js.map",
+    "main.js": "/casa-mare/static/js/main.21ebfe52.chunk.js",
+    "main.js.map": "/casa-mare/static/js/main.21ebfe52.chunk.js.map",
+    "runtime-main.js": "/casa-mare/static/js/runtime-main.4c36547a.js",
+    "runtime-main.js.map": "/casa-mare/static/js/runtime-main.4c36547a.js.map",
     "static/css/2.ea93ef7a.chunk.css": "/casa-mare/static/css/2.ea93ef7a.chunk.css",
-    "static/js/2.66806afe.chunk.js": "/casa-mare/static/js/2.66806afe.chunk.js",
-    "static/js/2.66806afe.chunk.js.map": "/casa-mare/static/js/2.66806afe.chunk.js.map",
-    "static/js/3.61e6dca0.chunk.js": "/casa-mare/static/js/3.61e6dca0.chunk.js",
-    "static/js/3.61e6dca0.chunk.js.map": "/casa-mare/static/js/3.61e6dca0.chunk.js.map",
+    "static/js/2.b8bf9465.chunk.js": "/casa-mare/static/js/2.b8bf9465.chunk.js",
+    "static/js/2.b8bf9465.chunk.js.map": "/casa-mare/static/js/2.b8bf9465.chunk.js.map",
+    "static/js/3.c09e41e4.chunk.js": "/casa-mare/static/js/3.c09e41e4.chunk.js",
+    "static/js/3.c09e41e4.chunk.js.map": "/casa-mare/static/js/3.c09e41e4.chunk.js.map",
     "index.html": "/casa-mare/index.html",
     "static/css/2.ea93ef7a.chunk.css.map": "/casa-mare/static/css/2.ea93ef7a.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/casa-mare/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.66806afe.chunk.js.LICENSE.txt": "/casa-mare/static/js/2.66806afe.chunk.js.LICENSE.txt",
+    "static/js/2.b8bf9465.chunk.js.LICENSE.txt": "/casa-mare/static/js/2.b8bf9465.chunk.js.LICENSE.txt",
     "static/media/bagno1.a7a300cf.jpg": "/casa-mare/static/media/bagno1.a7a300cf.jpg",
     "static/media/camera.600a8a06.jpg": "/casa-mare/static/media/camera.600a8a06.jpg",
     "static/media/copertina.2c441edf.jpeg": "/casa-mare/static/media/copertina.2c441edf.jpeg",
@@ -42,10 +42,10 @@
     "static/media/vista3.12a42b55.jpg": "/casa-mare/static/media/vista3.12a42b55.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f487377.js",
+    "static/js/runtime-main.4c36547a.js",
     "static/css/2.ea93ef7a.chunk.css",
-    "static/js/2.66806afe.chunk.js",
+    "static/js/2.b8bf9465.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.0bedd9bf.chunk.js"
+    "static/js/main.21ebfe52.chunk.js"
   ]
 }
