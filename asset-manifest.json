@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/casa-mare/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/casa-mare/static/js/main.b406a088.chunk.js",
-    "main.js.map": "/casa-mare/static/js/main.b406a088.chunk.js.map",
+    "main.js": "/casa-mare/static/js/main.68b0d914.chunk.js",
+    "main.js.map": "/casa-mare/static/js/main.68b0d914.chunk.js.map",
     "runtime-main.js": "/casa-mare/static/js/runtime-main.4c36547a.js",
     "runtime-main.js.map": "/casa-mare/static/js/runtime-main.4c36547a.js.map",
     "static/css/2.ea93ef7a.chunk.css": "/casa-mare/static/css/2.ea93ef7a.chunk.css",
@@ -20,6 +20,7 @@
     "static/media/cortile1.6694d52f.jpg": "/casa-mare/static/media/cortile1.6694d52f.jpg",
     "static/media/esterno1.45b6312d.jpeg": "/casa-mare/static/media/esterno1.45b6312d.jpeg",
     "static/media/esterno2.d6090acc.jpg": "/casa-mare/static/media/esterno2.d6090acc.jpg",
+    "static/media/esterno3.dc28ae43.jpeg": "/casa-mare/static/media/esterno3.dc28ae43.jpeg",
     "static/media/paese1.ddefde3c.jpg": "/casa-mare/static/media/paese1.ddefde3c.jpg",
     "static/media/paese2.337bd3cf.jpg": "/casa-mare/static/media/paese2.337bd3cf.jpg",
     "static/media/paese3.b588df7d.jpg": "/casa-mare/static/media/paese3.b588df7d.jpg",
@@ -46,6 +47,6 @@
     "static/css/2.ea93ef7a.chunk.css",
     "static/js/2.ebf40032.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.b406a088.chunk.js"
+    "static/js/main.68b0d914.chunk.js"
   ]
 }
