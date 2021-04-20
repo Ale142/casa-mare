@@ -7,13 +7,13 @@ import { Carousel } from 'react-responsive-carousel';
 import cortile1 from '../images/casa/esterni/cortile1.jpg';
 import esterno1 from '../images/casa/esterni/esterno1.jpeg';
 import esterno2 from '../images/casa/esterni/esterno2.jpg';
+import esterno3 from '../images/casa/esterni/esterno3.jpeg';
 import piantina from '../images/casa/esterni/piantina.png';
 import postoauto from '../images/casa/esterni/postoauto.jpg';
 import vista1 from '../images/casa/esterni/vista1.jpg';
 import vista2 from '../images/casa/esterni/vista2.jpg';
 import vista3 from '../images/casa/esterni/vista3.jpg';
-
-
+import vista4 from '../images/casa/esterni/vista4.jpeg';
 const fotoEsterni = [
     {
         src: cortile1,
@@ -31,6 +31,12 @@ const fotoEsterni = [
         caption: "Esterno"
     },
     {
+        src: esterno3,
+        alt: "Foto esterno",
+        caption: "Esterno"
+    },
+    
+    {
         src: piantina,
         alt: "Foto piantina",
         caption: "Piantina"
@@ -47,6 +53,11 @@ const fotoEsterni = [
     },
     // {
     //     src: vista2,
+    //     alt: "Foto vista mare",
+    //     caption: "Vista mare"
+    // },
+    // {
+    //     src: vista4,
     //     alt: "Foto vista mare",
     //     caption: "Vista mare"
     // },

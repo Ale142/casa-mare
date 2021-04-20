@@ -42,7 +42,7 @@ function Spiagge(props: any) {
             <h2> Spiagge </h2>
             <p> </p>
             <a href = "https://www.facebook.com/baiaazzurras.stefano"> Baia Azzurra beach</a>
-            <a href = "https://www.stabilimentobalneare.org/bagni-il-vascello-santo-stefano-al-mare/"> Bagni il Vascello </a>
+            <a href = "https://www.trovaspiagge.it/spiaggia-il-vascello/"> Bagni il Vascello </a>
         </Col>
         <Col md={props.view === 'left' ? 8 : 4}> 
             <Carousel dynamicHeight = {false} showThumbs = {true}> 
