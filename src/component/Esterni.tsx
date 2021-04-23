@@ -8,6 +8,11 @@ import cortile1 from '../images/casa/esterni/cortile1.jpg';
 import esterno1 from '../images/casa/esterni/esterno1.jpeg';
 import esterno2 from '../images/casa/esterni/esterno2.jpg';
 import esterno3 from '../images/casa/esterni/esterno3.jpeg';
+import esterno4 from '../images/casa/esterni/esterno4.jpeg';
+import esterno5 from '../images/casa/esterni/esterno5.jpeg';
+
+import strada from '../images/casa/esterni/strada.jpeg';
+
 import piantina from '../images/casa/esterni/piantina.png';
 import postoauto from '../images/casa/esterni/postoauto.jpg';
 import vista1 from '../images/casa/esterni/vista1.jpg';
@@ -35,12 +40,27 @@ const fotoEsterni = [
         alt: "Foto esterno",
         caption: "Esterno"
     },
-    
     {
-        src: piantina,
-        alt: "Foto piantina",
-        caption: "Piantina"
+        src:esterno4,
+        alt: "Foto esterno",
+        caption: "Esterno"
     },
+    {
+        src:esterno5,
+        alt: "Foto esterno",
+        caption: "Esterno"
+    },
+    // {
+    //     src: piantina,
+    //     alt: "Foto piantina",
+    //     caption: "Piantina"
+    // },
+    // {
+    //     src: strada,
+    //     alt: "Strada",
+    //     caption: "Strada"
+    // },
+
     {
         src: postoauto,
         alt: "Foto posto auto",

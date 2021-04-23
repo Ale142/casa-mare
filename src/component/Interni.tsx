@@ -5,19 +5,34 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a lo
 import { Carousel } from 'react-responsive-carousel';
 
 import bagno1 from '../images/casa/interni/bagno1.jpg';
-import camera from '../images/casa/interni/camera.jpg';
+import bagno2 from '../images/casa/interni/bagno2.jpeg';
+
+import camera1 from '../images/casa/interni/camera1.jpg';
+import camera2 from '../images/casa/interni/camera2.jpeg';
+import camera3 from '../images/casa/interni/camera3.jpeg';
+
 import sala1 from '../images/casa/interni/sala.jpg';
 import sala2 from '../images/casa/interni/sala2.jpg';
+import sala3 from '../images/casa/interni/sala3.jpeg';
+import sala4 from '../images/casa/interni/sala4.jpeg';
+
+import balcone from '../images/casa/interni/balcone.jpeg';
+
 
 
 const fotoInterni = [
     {
-        src: bagno1,
-        alt: "Foto bagno",
-        caption:"Bagno"
+        src: camera1,
+        alt: "Foto camera",
+        caption: "Camera da letto"
     },
     {
-        src: camera,
+        src: camera2,
+        alt: "Foto camera",
+        caption: "Camera da letto"
+    },
+    {
+        src: camera3,
         alt: "Foto camera",
         caption: "Camera da letto"
     },
@@ -30,7 +45,34 @@ const fotoInterni = [
         src: sala2,
         alt: "Foto sala 2",
         caption: "Sala da pranzo"
+    },
+    {
+        src: sala3,
+        alt: "Foto sala",
+        caption: "Sala da pranzo"
+    },
+    {
+        src: sala4,
+        alt: "Foto sala",
+        caption: "Sala da pranzo"
+    },
+    {
+        src: bagno1,
+        alt: "Foto bagno",
+        caption:"Bagno"
+    },
+    {
+        src: bagno2,
+        alt: "Foto bagno",
+        caption: "Bagno"
+    },
+    {
+        src: balcone,
+        alt: "Balcone",
+        caption: "Balcone"
     }
+
+    
 ];
 
 const slideShow = fotoInterni.map((el, key) => {

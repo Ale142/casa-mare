@@ -16,7 +16,7 @@ function Home(props: any) {
             <Row className = "justify-content-center mt-5">
 
                 <Col xs = "10">
-                    <p> Bilocale piano terra di 33 mq, ideale per 3 persone, con affaccio su giardino e lato vista mare composto da: 
+                    <p> Bilocale piano terra di 33 mq, ideale per 4 persone, con affaccio su giardino e lato vista mare composto da: 
                         <ListGroup>
                             <ListGroup.Item>Angolo cottura </ListGroup.Item>
                             <ListGroup.Item>Tinello con divano letto</ListGroup.Item>
