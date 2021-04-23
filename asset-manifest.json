@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/casa-mare/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/casa-mare/static/js/main.68b0d914.chunk.js",
-    "main.js.map": "/casa-mare/static/js/main.68b0d914.chunk.js.map",
+    "main.js": "/casa-mare/static/js/main.bb87b37d.chunk.js",
+    "main.js.map": "/casa-mare/static/js/main.bb87b37d.chunk.js.map",
     "runtime-main.js": "/casa-mare/static/js/runtime-main.4c36547a.js",
     "runtime-main.js.map": "/casa-mare/static/js/runtime-main.4c36547a.js.map",
     "static/css/2.ea93ef7a.chunk.css": "/casa-mare/static/css/2.ea93ef7a.chunk.css",
@@ -15,18 +15,23 @@
     "static/css/main.6dea0f05.chunk.css.map": "/casa-mare/static/css/main.6dea0f05.chunk.css.map",
     "static/js/2.ebf40032.chunk.js.LICENSE.txt": "/casa-mare/static/js/2.ebf40032.chunk.js.LICENSE.txt",
     "static/media/bagno1.a7a300cf.jpg": "/casa-mare/static/media/bagno1.a7a300cf.jpg",
-    "static/media/camera.600a8a06.jpg": "/casa-mare/static/media/camera.600a8a06.jpg",
+    "static/media/bagno2.f969ddf1.jpeg": "/casa-mare/static/media/bagno2.f969ddf1.jpeg",
+    "static/media/balcone.b23fa051.jpeg": "/casa-mare/static/media/balcone.b23fa051.jpeg",
+    "static/media/camera1.600a8a06.jpg": "/casa-mare/static/media/camera1.600a8a06.jpg",
+    "static/media/camera2.d354ad75.jpeg": "/casa-mare/static/media/camera2.d354ad75.jpeg",
+    "static/media/camera3.02e89e7a.jpeg": "/casa-mare/static/media/camera3.02e89e7a.jpeg",
     "static/media/copertina.2c441edf.jpeg": "/casa-mare/static/media/copertina.2c441edf.jpeg",
     "static/media/cortile1.6694d52f.jpg": "/casa-mare/static/media/cortile1.6694d52f.jpg",
     "static/media/esterno1.45b6312d.jpeg": "/casa-mare/static/media/esterno1.45b6312d.jpeg",
     "static/media/esterno2.d6090acc.jpg": "/casa-mare/static/media/esterno2.d6090acc.jpg",
     "static/media/esterno3.dc28ae43.jpeg": "/casa-mare/static/media/esterno3.dc28ae43.jpeg",
+    "static/media/esterno4.e2586370.jpeg": "/casa-mare/static/media/esterno4.e2586370.jpeg",
+    "static/media/esterno5.2829b549.jpeg": "/casa-mare/static/media/esterno5.2829b549.jpeg",
     "static/media/paese1.ddefde3c.jpg": "/casa-mare/static/media/paese1.ddefde3c.jpg",
     "static/media/paese2.337bd3cf.jpg": "/casa-mare/static/media/paese2.337bd3cf.jpg",
     "static/media/paese3.b588df7d.jpg": "/casa-mare/static/media/paese3.b588df7d.jpg",
     "static/media/paese4.0e76ce99.jpg": "/casa-mare/static/media/paese4.0e76ce99.jpg",
     "static/media/paese5.de07cc81.jpg": "/casa-mare/static/media/paese5.de07cc81.jpg",
-    "static/media/piantina.a9b11ae6.png": "/casa-mare/static/media/piantina.a9b11ae6.png",
     "static/media/pista1.67b3b836.jpg": "/casa-mare/static/media/pista1.67b3b836.jpg",
     "static/media/pista2.acc67c7c.jpg": "/casa-mare/static/media/pista2.acc67c7c.jpg",
     "static/media/pista3.d0900c48.jpg": "/casa-mare/static/media/pista3.d0900c48.jpg",
@@ -36,6 +41,8 @@
     "static/media/postoauto.4bffab38.jpg": "/casa-mare/static/media/postoauto.4bffab38.jpg",
     "static/media/sala.26d44c77.jpg": "/casa-mare/static/media/sala.26d44c77.jpg",
     "static/media/sala2.94b61751.jpg": "/casa-mare/static/media/sala2.94b61751.jpg",
+    "static/media/sala3.4d08b4e4.jpeg": "/casa-mare/static/media/sala3.4d08b4e4.jpeg",
+    "static/media/sala4.af21c49e.jpeg": "/casa-mare/static/media/sala4.af21c49e.jpeg",
     "static/media/spiaggia1.a151f2ef.jpeg": "/casa-mare/static/media/spiaggia1.a151f2ef.jpeg",
     "static/media/spiaggia2.130c04f7.jpg": "/casa-mare/static/media/spiaggia2.130c04f7.jpg",
     "static/media/spiaggia3.e0ce5e7d.jpg": "/casa-mare/static/media/spiaggia3.e0ce5e7d.jpg",
@@ -47,6 +54,6 @@
     "static/css/2.ea93ef7a.chunk.css",
     "static/js/2.ebf40032.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.68b0d914.chunk.js"
+    "static/js/main.bb87b37d.chunk.js"
   ]
 }
