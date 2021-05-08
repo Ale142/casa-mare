@@ -1,0 +1,16 @@
+  
+.styleGoogleCalendar {
+  position: relative;
+  height: 0;
+  width: 50%;
+  padding-bottom: 50%;
+}
+
+.styleGoogleCalendarIFrame {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 600px;
+    height: 500px;
+  }
