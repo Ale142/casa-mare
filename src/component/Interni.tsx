@@ -10,10 +10,14 @@ import bagno3 from "../images/casa/interni/bagno3.jpeg";
 
 import camera from "../images/casa/interni/camera.jpg";
 import camera2 from "../images/casa/interni/camera2.jpeg";
+import camera3 from "../images/casa/interni/camera3.jpeg";
 
 import sala1 from "../images/casa/interni/sala.jpg";
 import sala2 from "../images/casa/interni/sala2.jpg";
 import sala3 from "../images/casa/interni/sala3.jpeg";
+import sala4 from "../images/casa/interni/sala4.jpeg";
+
+import balcone from "../images/casa/interni/balcone.jpeg";
 
 const fotoInterni = [
   {
@@ -42,6 +46,11 @@ const fotoInterni = [
     caption: "Camera da letto",
   },
   {
+    src: camera3,
+    alt: "Foto camera",
+    caption: "Camera da letto",
+  },
+  {
     src: sala1,
     alt: "Foto sala",
     caption: "Sala da pranzo",
@@ -55,6 +64,16 @@ const fotoInterni = [
     src: sala3,
     alt: "Foto sala 3",
     caption: "Sala da pranzo",
+  },
+  {
+    src: sala4,
+    alt: "Foto sala",
+    caption: "Sala da pranzo",
+  },
+  {
+    src: balcone,
+    alt: "Balcone",
+    caption: "Balcone",
   },
 ];
 

@@ -81,7 +81,6 @@ const fotoEsterni = [
     caption: "Vista mare",
   },
 ];
-
 const slideShow = fotoEsterni.map((el, key) => {
   return (
     <div key={key}>
