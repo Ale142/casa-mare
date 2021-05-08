@@ -58,11 +58,11 @@ const fotoEsterni = [
     alt: "Foto esterno",
     caption: "Esterno",
   },
-  {
-    src: esterno4,
-    alt: "Foto esterno",
-    caption: "Esterno",
-  },
+  //   {
+  //     src: esterno4,
+  //     alt: "Foto esterno",
+  //     caption: "Esterno",
+  //   },
 
   {
     src: esterno3,
